@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+__pycache__
+venv
+
+# Unzipped dataset
+handwritten
+handwritten.zip
+
+# Don't push images to GitHub
+images/*
